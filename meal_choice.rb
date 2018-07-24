@@ -7,13 +7,13 @@ def breakfast(food = "Frosted Flakes")
   "Any time, is the right time for #{food}!"
 end
 
-def lunch(food = "grilled cheese")
-  "Any time, is the right time for #{food}!"
-end
+# def lunch(food = "grilled cheese")
+#   "Any time, is the right time for #{food}!"
+# end
 
-def dinner(food = "salmon")
-  "Any time, is the right time for #{food}!"
-end
+# def dinner(food = "salmon")
+#   "Any time, is the right time for #{food}!"
+# end
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
 
 # Call the methods with puts and your own arguments here. Like this:
