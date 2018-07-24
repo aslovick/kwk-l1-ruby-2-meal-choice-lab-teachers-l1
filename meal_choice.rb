@@ -19,9 +19,9 @@ end
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
-puts snacks("Swedish fish")
-puts snacks("Swedish fish")
-puts snacks("Swedish fish")
+puts breakfast("Avocado Toast")
+puts lunch("Quinoa Power Bowl")
+puts dinner("Curry")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
